@@ -4,7 +4,7 @@
   </p>
   <br>
   <br>
-  $\color{#EF9A36}{\texttt{  (( i, telebread , likes bread. }}$
+  $\color{#EF9A36}{\texttt{ i, telebread , likes bread. }}$
   <br>
   <br>
   <table style="border: 2px solid #EF9A36; border-radius: 8px;">
@@ -13,7 +13,7 @@
         <img alt="tumblr_9cc62631db8d74d10b1d72fc14e7a51e_0de43c78_400" src="https://github.com/user-attachments/assets/dd38cee4-71fd-4ff8-925c-2776e8716650" />
 <br>
         <br>
-     $\color{#EF9A36}{\texttt{ my other accounts (they so cool fr)}}$
+     $\color{#EF9A36}{\texttt{ my other accounts (they so cool fr) }}$
         <br>
         <br>
         <br>
