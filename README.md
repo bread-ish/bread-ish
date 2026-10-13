@@ -4,7 +4,9 @@
   </p>
   <br>
   <br>
-  $\color{#EF9A36}{\texttt{ i, telebread , likes bread. }}$
+  <p align="center">
+  $\color{#EF9A36}{\texttt{ I, telebread , likes bread}}$
+  </p>
   <br>
   <br>
   <table style="border: 2px solid #EF9A36; border-radius: 8px;">
