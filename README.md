@@ -22,11 +22,13 @@
         $\color{#E48120}{\texttt{ ╰┈➤ }}$
                     <a href="https://github.com/sketchyremorse">@sketchyremorse</a>
                       $\color{#E48120}{\texttt{ ˚. ᵎᵎ }}$
+        <img width="35" height="35" alt="tumblr_93c77075377482f441ccaa2151ab6903_43e5f01b_250 gif" src="https://github.com/user-attachments/assets/f4827eb1-8abc-47fb-be99-de5bf77b0cab" />
                       <br>
         <br>
         $\color{#B1520A}{\texttt{ ╰┈➤ }}$
                     <a href="https://github.com/c4k3lly-x">@c4k3lly-x</a>
                       $\color{#B1520A}{\texttt{ ˚. ᵎᵎ }}$    
+        <img width="35" height="35" alt="tumblr_93c77075377482f441ccaa2151ab6903_43e5f01b_250 gif" src="https://github.com/user-attachments/assets/f4827eb1-8abc-47fb-be99-de5bf77b0cab" />
       </td>
     </tr>
   </table>
