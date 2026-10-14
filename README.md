@@ -71,32 +71,32 @@
         <br>
       <br>
       $\color{#B1520A}{\texttt{ 𓂃⋆.˚ }}$
-      <a href="https://github.com/Megitsune">ʍɛɢɨ<a>
+      <a href="https://github.com/M3gitsune">ʍɛɢɨᴹ³ᵍⁱᵗˢᵘⁿᵉ<a>
         $\color{#E48120}{\texttt{ ｡𖦹°‧⭑.ᐟ }}$
         <br>
       <br>
       $\color{#B1520A}{\texttt{ 𓂃⋆.˚ }}$
-      <a href="https://github.com/DontDoEvil">ƭɦαℓเ<a>
+      <a href="https://github.com/DontDoEvil">ƭɦαℓเᴰᵒⁿᵗᴰᵒᴱᵛⁱˡ <a>
         $\color{#E48120}{\texttt{ ｡𖦹°‧⭑.ᐟ }}$
         <br>
       <br>
       $\color{#B1520A}{\texttt{ 𓂃⋆.˚ }}$
-      <a href="https://github.com/timstalkerdrake">ɱαƭƭเ<a>
+      <a href="https://github.com/timstalkerdrake">ɱαƭƭเᵗⁱᵐˢᵗᵃˡᵏᵉʳᵈʳᵃᵏᵉ <a>
         $\color{#E48120}{\texttt{ ｡𖦹°‧⭑.ᐟ }}$
         <br>
       <br>
       $\color{#B1520A}{\texttt{ 𓂃⋆.˚ }}$
-      <a href="https://github.com/SOILMENT">αɱɓε૨<a>
+      <a href="https://github.com/SOILMENT">αɱɓε૨ˢᴼᴵᴸᴹᴱᴺᵀ <a>
         $\color{#E48120}{\texttt{ ｡𖦹°‧⭑.ᐟ }}$
         <br>
       <br>
       $\color{#B1520A}{\texttt{ 𓂃⋆.˚ }}$
-      <a href="https://github.com/bumblebeecher">ℓεҡσ<a>
+      <a href="https://github.com/bumblebeecher">ℓεҡσᵇᵘᵐᵇˡᵉᵇᵉᵉᶜʰᵉʳ <a>
         $\color{#E48120}{\texttt{ ｡𖦹°‧⭑.ᐟ }}$
         <br>
       <br>
       $\color{#B1520A}{\texttt{ 𓂃⋆.˚ }}$
-      <a href="https://github.com/PYRlTE">∂αɳɳყ<a>
+      <a href="https://github.com/PYRlTE">∂αɳɳყᴾʸᴿˡᵀᴱ<a>
         $\color{#E48120}{\texttt{ ｡𖦹°‧⭑.ᐟ }}$
       </td>
   </tr>
