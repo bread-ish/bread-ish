@@ -32,5 +32,74 @@
       </td>
     </tr>
   </table>
+  <br>
+  <br>
+  <table>
+  <tr>
+    <td>
+  $\color{#B1520A}{\texttt{ Woo these my cool friends 🥳🎉 }}$
+      <br>
+      <br>
+      $\color{#B1520A}{\texttt{ 𓂃⋆.˚ }}$
+      <a href="https://github.com/sweetdeathstar">ʀɛռˢʷᵉᵉᵗᵈᵉᵃᵗʰˢᵗᵃʳ<a>
+        $\color{#E48120}{\texttt{ ｡𖦹°‧⭑.ᐟ }}$
+        <br>
+      <br>
+      $\color{#B1520A}{\texttt{ 𓂃⋆.˚ }}$
+      <a href="https://github.com/batmanzz-Aerisz">աɨʄɨɛᵇᵃᵗᵐᵃⁿᶻᶻ-ᴬᵉʳⁱˢᶻ<a>
+        $\color{#E48120}{\texttt{ ｡𖦹°‧⭑.ᐟ }}$
+        <br>
+      <br>
+      $\color{#B1520A}{\texttt{ 𓂃⋆.˚ }}$
+      <a href="https://github.com/oraclegordon">ρɦαรεᵒʳᵃᶜˡᵉᵍᵒʳᵈᵒⁿ <a>
+        $\color{#E48120}{\texttt{ ｡𖦹°‧⭑.ᐟ }}$
+        <br>
+      <br>
+      $\color{#B1520A}{\texttt{ 𓂃⋆.˚ }}$
+      <a href="https://github.com/Ilikegeodes">ɢɛօɖɛᴵˡⁱᵏᵉᵍᵉᵒᵈᵉˢ <a>
+        $\color{#E48120}{\texttt{ ｡𖦹°‧⭑.ᐟ }}$
+        <br>
+      <br>
+      $\color{#B1520A}{\texttt{ 𓂃⋆.˚ }}$
+      <a href="https://github.com/hood-net">รεɓʰᵒᵒᵈ-ⁿᵉᵗ<a>
+        $\color{#E48120}{\texttt{ ｡𖦹°‧⭑.ᐟ }}$
+        <br>
+      <br>
+      $\color{#B1520A}{\texttt{ 𓂃⋆.˚ }}$
+      <a href="https://github.com/vaciIIator">ѵαℓᵛᵃᶜⁱᴵᴵᵃᵗᵒʳ<a>
+        $\color{#E48120}{\texttt{ ｡𖦹°‧⭑.ᐟ }}$
+        <br>
+      <br>
+      $\color{#B1520A}{\texttt{ 𓂃⋆.˚ }}$
+      <a href="https://github.com/Megitsune">ʍɛɢɨ<a>
+        $\color{#E48120}{\texttt{ ｡𖦹°‧⭑.ᐟ }}$
+        <br>
+      <br>
+      $\color{#B1520A}{\texttt{ 𓂃⋆.˚ }}$
+      <a href="https://github.com/DontDoEvil">ƭɦαℓเ<a>
+        $\color{#E48120}{\texttt{ ｡𖦹°‧⭑.ᐟ }}$
+        <br>
+      <br>
+      $\color{#B1520A}{\texttt{ 𓂃⋆.˚ }}$
+      <a href="https://github.com/timstalkerdrake">ɱαƭƭเ<a>
+        $\color{#E48120}{\texttt{ ｡𖦹°‧⭑.ᐟ }}$
+        <br>
+      <br>
+      $\color{#B1520A}{\texttt{ 𓂃⋆.˚ }}$
+      <a href="https://github.com/SOILMENT">αɱɓε૨<a>
+        $\color{#E48120}{\texttt{ ｡𖦹°‧⭑.ᐟ }}$
+        <br>
+      <br>
+      $\color{#B1520A}{\texttt{ 𓂃⋆.˚ }}$
+      <a href="https://github.com/bumblebeecher">ℓεҡσ<a>
+        $\color{#E48120}{\texttt{ ｡𖦹°‧⭑.ᐟ }}$
+        <br>
+      <br>
+      $\color{#B1520A}{\texttt{ 𓂃⋆.˚ }}$
+      <a href="https://github.com/PYRlTE">∂αɳɳყ<a>
+        $\color{#E48120}{\texttt{ ｡𖦹°‧⭑.ᐟ }}$
+      </td>
+  </tr>
+  </table>
 </div>
   
